@@ -42,4 +42,4 @@ async def check(ctx):
         await ctx.send('Anda Tidak Mengirim File Apapun !!')
 
 
-bot.run("MTEzNDEwNTc2MDYwMzg0MDU5NQ.Gtr1IA.Xrh1H0yAtjtsIdxiMDAP1OmJKlN_6-K3_b6WqQ")
+bot.run("YOUR TOKEN HERE!!")
